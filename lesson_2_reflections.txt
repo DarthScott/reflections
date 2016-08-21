@@ -17,3 +17,6 @@ Can keep parallel versions of a program, can develop features that aren't ready
 for production code yet, with meaningful names, can know what different things
 are being worked on.
 
+How do the diagrams help you visualize the branch structure?
+picture = 1000 * word
+
