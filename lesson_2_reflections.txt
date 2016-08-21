@@ -5,3 +5,8 @@ How is the staging area different from the working directory and the repository?
 offers?
 The staging area isn't where you do things (like edit) to a file, but is more like a holding area for future commits.
 It shows you what you're working on 'right now', as far as git is concerned.
+
+How can you use the staging area to make sure you hve one commit per
+logical change?
+You can make sure you only put one logical change in the staging area at a time
+by using 'git diff' without any arguments.
