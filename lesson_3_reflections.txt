@@ -30,7 +30,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Previously, online collaboration was via email or online storage. Mainly
+    this meant not version control, and was dependent on asynchronous
+    communications. Alternately, other version control programs existed, but
+    were judged by Linus and friends to be inadequate.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
