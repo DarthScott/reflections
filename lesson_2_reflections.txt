@@ -26,3 +26,9 @@ The result is one combined branch, with the sum of the changes of the two
 branches. On the diagram, it's represented as diverging and converging branches
 because that's a good visual analogy for what's happening.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+Pros: much faster for routine merges of things that don't affect each other; big
+time and tedium saver
+Cons: could create unwanted merges; no tracking of fine detail of merges.
+
