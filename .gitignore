@@ -3,5 +3,7 @@ asteroids/
 asteroids/*
 pappu-pakia/
 pappu-pakia/*
+recipes/
+recipes/*
 *.swp
 *.swo
