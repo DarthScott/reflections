@@ -1,0 +1,7 @@
+# Things we don't want git to care about
+asteroids/
+asteroids/*
+pappu-pakia/
+pappu-pakia/*
+*.swp
+*.swo
