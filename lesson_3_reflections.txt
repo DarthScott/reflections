@@ -23,7 +23,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Merges will be much faster, plus you are merging with the latest version,
+    unless you choose an earlier version. The option to merge with an earlier
+    version is available if needed/wanted.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
