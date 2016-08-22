@@ -20,3 +20,9 @@ are being worked on.
 How do the diagrams help you visualize the branch structure?
 picture = 1000 * word
 
+What is the result of  merging two branches together? Why do we represent it on
+the diagram the way we do?
+The result is one combined branch, with the sum of the changes of the two
+branches. On the diagram, it's represented as diverging and converging branches
+because that's a good visual analogy for what's happening.
+
